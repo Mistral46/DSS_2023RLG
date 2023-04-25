@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Mistral46/DSS_2023RLG#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-es6-template-engine": "^2.2.3"
   }
 }
